@@ -1,0 +1,26 @@
+{
+    "Greeting":"Hello World",
+    "isdog":"Yes",
+    "Hobbies":["eating","sleeping"],
+    "address":{
+        "work": null,
+        "home": ["berlin" , "Germany"]
+
+    },
+    "multi address":[
+        {
+        "address":{
+        "work": null,
+        "home": ["berlin" , "Germany"]
+        }
+    },
+    
+    {
+    "address":{
+        "work": null,
+        "home": ["berlin" , "Germany"]
+        
+    }
+    }   
+    ]
+}
